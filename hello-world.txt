@@ -6,3 +6,4 @@ adding more text to my text file
 
 and checking changes 
 
+adding even more text in here for more commits
